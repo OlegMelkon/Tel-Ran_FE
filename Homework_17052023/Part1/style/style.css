@@ -1,0 +1,36 @@
+.header{
+    text-align: center;
+    line-height: 40px;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 20px;
+    color: blue;
+}
+
+.block3 h2, .block4 h2{
+    text-align: center;
+    line-height: 40px;
+    font-weight: bold;
+    font-style: normal;    
+    color: blue;
+}
+
+.block1 p, .block2 p, .block3 p, .block4 p, .block5 p{
+    text-align: justify;
+    text-indent: 50px;
+    line-height: 40px;
+    font-weight: normal;
+    font-style: normal;
+    color: black;
+    width: 60%;
+    margin: 0 auto;
+}
+
+.colortextR{
+    color: red;
+}
+
+.colortextB{
+    color: blue;
+    font-style: italic;
+}

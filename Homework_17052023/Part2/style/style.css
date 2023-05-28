@@ -1,0 +1,86 @@
+html{
+    background-color: lightblue;
+}
+
+.header{
+    text-align: center;
+    line-height: 40px;
+    font-weight: bolder;
+    font-style: italic;
+    font-size: 40px;
+    color: black;
+}
+
+.main{
+    width: 90%;
+    margin: 0 auto;          
+}
+
+.aboutMe{
+    background-color: lightslategray;
+}
+
+.myHobby{
+    background-color: lightseagreen;
+}
+
+.myJob{
+    background-color: lightpink;
+}
+
+.main img{
+    width: 500px;    
+}
+
+.centerAll{
+    text-align: center;
+}
+
+.marginFoto{
+    margin: 10px auto 20px;
+    display: block;
+}
+
+.aboutMe img{
+    width: 500px;
+}
+
+.aboutMe h2{
+    text-align: center;  
+    color: black; 
+    padding-top: 20px; 
+}
+
+.myHobby h2{
+    text-align: center;  
+    color: black; 
+    padding-top: 20px; 
+}
+
+.myJob h2{
+    text-align: center;  
+    color: black; 
+    padding-top: 20px; 
+}
+
+.textAM{
+    text-align: center;  
+    color: black; 
+    margin: 50px;  
+    padding-bottom: 20px;  
+}
+
+.text p{
+    text-align: center;
+    text-indent: 30px;
+    line-height: 40px;
+    font-weight: bold;
+    font-size: 20px;
+    color: black;
+}
+
+.text{
+    border: 5px solid black;
+    margin: 0 auto;
+    background-color: aliceblue;
+}
