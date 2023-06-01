@@ -1,0 +1,27 @@
+h1{
+    font-size: x-large;
+    text-align: center;
+    margin: 100px 0 5px 0;
+}
+
+ul{
+    margin-left: 45%;    
+}
+
+.table1, td, th{
+    border: ridge grey;
+    border-collapse: collapse;
+  
+    
+}
+
+.myclass {
+    white-space: nowrap;
+   
+  }
+
+  
+
+ 
+
+  

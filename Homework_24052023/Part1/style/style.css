@@ -1,0 +1,30 @@
+.ref1{
+    color: blue;
+    padding: 10px;
+}
+
+.ref1:hover{
+    color: green;
+    text-decoration: underline;
+}
+
+.ref2{
+    color: red;
+    padding: 10px;
+    text-decoration: underline;
+}
+
+.ref2:hover{
+    color: blue;
+    text-decoration: line-through;
+}
+
+.ref3{
+    color: black;
+    padding: 10px;
+}
+
+.ref3:hover{
+    color: red;
+    text-decoration: overline;
+}

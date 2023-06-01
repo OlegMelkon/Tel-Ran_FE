@@ -1,0 +1,15 @@
+h1{
+    font-size: 50px;    
+}
+
+p{
+    font-size: 20px;
+}
+
+body{
+    background-image: url(https://www.alpina-automobiles.com/fileadmin/_processed_/csm_BMW_ALPINA_XB7_LCI_09_75a1e3071d.jpg);
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-attachment: fixed;
+}
